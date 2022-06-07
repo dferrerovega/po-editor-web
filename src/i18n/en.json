@@ -6,5 +6,6 @@
     "message": "Message: $t(welcomeMessage)",
     "status": "Status {{val}}",
     "lastSession": "Last Session on the {{val, datetime}}"
-  }
+  },
+  "newTerm": "new"
 }
