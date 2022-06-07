@@ -1,0 +1,10 @@
+{
+  "welcomeTitle": "Bienvenido a Biosystems",
+  "welcomeMessage": "Elaboración de soluciones analíticas a la medida de sus necesidades",
+  "dashboard": {
+    "title": "Bienvenido al Dashboard",
+    "message": "Mensaje: $t(welcomeMessage)",
+    "status": "Estado {{val}}",
+    "lastSession": "Última sesión el {{val, datetime}}"
+  }
+}
